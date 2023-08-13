@@ -34,6 +34,7 @@ export class ApprovedNodeLambda extends Construct {
         image: Runtime.NODEJS_18_X.bundlingImage,
         command: props.bundleCommand ?? [
           'bash', '-c', `
+        export npm_config_cache=/tmp/.npm &&
         npm install &&
         npm run build &&
         cp -au node_modules /asset-output &&
