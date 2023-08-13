@@ -2,7 +2,7 @@
 
 export const config = {
   codeRepository: "<YOUR REPO HERE>",
-  codeBranch: "master",
+  codeBranch: "main",
   connectionArn: "<YOUR CODE COMMIT CONNECTION ARN HERE>",
   preprodAccount: {
     account: "<YOUR PREPROD ACCOUNT ID HERE>",
