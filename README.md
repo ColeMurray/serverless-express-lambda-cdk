@@ -1,5 +1,5 @@
 # serverless-express-lambda-cdk
-An express serverless lambda project deployed with AWS CDK
+An express serverless lambda project configured with typescript deployed with AWS CDK
 
 This stack deploys:
 - CI/CD pipeline
