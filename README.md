@@ -8,7 +8,7 @@ This stack deploys:
 - Error alarm with pipeline rollback functionality
 
 ### Tutorial
-https://medium.com/@colemurray/building-a-ci-cd-pipeline-for-a-serverless-express-application-with-aws-cdk-1d3c842ea1ff
+https://medium.com/itnext/building-a-ci-cd-pipeline-for-a-serverless-express-application-with-aws-cdk-1d3c842ea1ff
 
 ### Setup
 #### Install deps
